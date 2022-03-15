@@ -1,1 +1,2 @@
 This projects takes an array of integers and 4 integer values, first 2 is index scope of the array, third one is the value that we will be comparing the other values within the scope.And the last value is after the comparisons if we have more than the last int value then we return true, if not false.
+[![egekzt](https://circleci.com/gh/egekzt/compareToGivenValue.svg?style=svg)](https://circleci.com/gh/egekzt/compareToGivenValue)
